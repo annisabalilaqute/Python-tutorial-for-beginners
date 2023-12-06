@@ -1,0 +1,28 @@
+# Python Tutorial for Beginners
+
+## Description
+
+This repository is dedicated to those who are new to Python and programming in general. It contains a series of tutorials that will guide you through the basics of Python.
+
+## Getting Started
+
+To get started with these tutorials, you'll need to have Python installed on your computer. If you don't have Python installed, you can download it from the official website: https://www.python.org/downloads/
+
+## Tutorials
+
+1. **Introduction to Python**: Learn about what Python is and why it's a great language for beginners.
+2. **Python Syntax**: Get to know the basic syntax of Python, including variables, data types, and operators.
+3. **Control Structures**: Learn about control structures in Python, including if statements, for loops, and while loops.
+4. **Functions**: Understand how to define and use functions in Python.
+5. **Data Structures**: Learn about the different data structures in Python, including lists, tuples, sets, and dictionaries.
+6. **Modules and Packages**: Learn how to use modules and packages to organize your Python code.
+
+Each tutorial is contained in its own directory, and includes a `README.md` file with the tutorial content, as well as a `.py` file with example code.
+
+## Contributing
+
+If you'd like to contribute to this project, please feel free to fork the repository, make your changes, and submit a pull request. We appreciate any contributions that can help others learn Python!
+
+## Contact
+
+If you have any questions or feedback, please feel free to contact me at your-email@example.com. Happy coding! 😊
